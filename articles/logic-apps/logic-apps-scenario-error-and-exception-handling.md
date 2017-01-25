@@ -38,7 +38,7 @@ The project had two major requirements:
 
 ## How we solved the problem
 > [!TIP]
-> You can view a high-level video of the project at the [Integration User Group](http://www.integrationusergroup.com/do-logic-apps-support-error-handling/ "Integration User Group").
+> You can view a high-level video of the project at the [Integration User Group](http://www.integrationusergroup.com/logic-apps-support-error-handling/ "Integration User Group").
 > 
 > 
 
